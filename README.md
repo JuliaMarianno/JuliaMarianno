@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="180" src="https://gifdb.com/images/high/hacker-dog-hacking-x5lbp7e3aiq5cvno.webp"  />
+<img align="right" height="159" src="https://gifdb.com/images/high/hacker-dog-hacking-x5lbp7e3aiq5cvno.webp"  />
 
 ###
 
