@@ -1,52 +1,56 @@
-<h1 align="center">Oi, eu sou a Júlia! 💫</h1>
-<p align="center">
-  <strong>🚀 Desenvolvedora em formação | Apaixonada por tecnologias ☕💻</strong><br>
-  🌎 São José dos Campos | 📚 Estudando Ciência da Computação<br>
-</p>
+<h2 align="left">Oi 👋! Meu nome é Júlia</h2>
 
----
+###
 
-### 🛠️ Tecnologias que estudo:
+<h3 align="left">Desenvolvedora em formação | Ciência da Computação</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+###
 
----
+<img align="right" height="141" src="https://gifdb.com/images/high/hacker-dog-hacking-x5lbp7e3aiq5cvno.webp"  />
 
-### 💡 Um pouco sobre mim:
+###
 
-- 🌸 Amo desafios que me tiram da zona de conforto.
-- 💬 Gosto de aprender, ensinar e compartilhar o que sei.
-- ✨ Sonho em trabalhar com tecnologia que transforma vidas.
-- 💻 Atualmente focada em Front-End e aprendendo sobre Segurança da Informação.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+</div>
 
----
+###
 
-### 📊 GitHub Stats:
+<br clear="both">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliasarahmariano&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasarahmariano&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-### 💌 Vamos conversar?
-
-<p align="center">
-  <a href="https://linkedin.com/in/seu-perfil" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<div align="left">
+  <a href="www.linkedin.com/in/júlia-marianno" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="juiashmariano@gmail.co" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-</p>
+  <a href="www.instagram/julia.marianno_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
 
----
-
-> “Codando o futuro com criatividade e um toque de glitter ✨👩‍💻”
+###
